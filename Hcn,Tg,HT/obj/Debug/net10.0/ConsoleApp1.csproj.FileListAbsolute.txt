@@ -1,0 +1,16 @@
+H:\code C#\bt12.9\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\code C#\bt12.9\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\code C#\bt12.9\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+H:\code C#\bt12.9\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\code C#\bt12.9\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
+H:\code C#\bt12.9\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+H:\code C#\bt12.9\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+H:\code C#\bt12.9\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+H:\code C#\bt12.9\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+H:\code C#\bt12.9\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+H:\code C#\bt12.9\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+H:\code C#\bt12.9\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+H:\code C#\bt12.9\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+H:\code C#\bt12.9\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+H:\code C#\bt12.9\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+H:\code C#\bt12.9\ConsoleApp1\obj\Debug\net10.0\ConsoleA.CB28C8CC.Up2Date
