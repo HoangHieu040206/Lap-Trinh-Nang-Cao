@@ -1,0 +1,15 @@
+D:\ltnc\baitap410\baitap410\obj\Debug\net10.0\baitap410.GeneratedMSBuildEditorConfig.editorconfig
+D:\ltnc\baitap410\baitap410\obj\Debug\net10.0\baitap410.AssemblyInfoInputs.cache
+D:\ltnc\baitap410\baitap410\obj\Debug\net10.0\baitap410.AssemblyInfo.cs
+D:\ltnc\baitap410\baitap410\obj\Debug\net10.0\baitap410.csproj.CoreCompileInputs.cache
+D:\ltnc\baitap410\baitap410\bin\Debug\net10.0\baitap410.exe
+D:\ltnc\baitap410\baitap410\bin\Debug\net10.0\baitap410.deps.json
+D:\ltnc\baitap410\baitap410\bin\Debug\net10.0\baitap410.runtimeconfig.json
+D:\ltnc\baitap410\baitap410\bin\Debug\net10.0\baitap410.dll
+D:\ltnc\baitap410\baitap410\bin\Debug\net10.0\baitap410.pdb
+D:\ltnc\baitap410\baitap410\obj\Debug\net10.0\baitap410.dll
+D:\ltnc\baitap410\baitap410\obj\Debug\net10.0\refint\baitap410.dll
+D:\ltnc\baitap410\baitap410\obj\Debug\net10.0\baitap410.pdb
+D:\ltnc\baitap410\baitap410\obj\Debug\net10.0\baitap410.genruntimeconfig.cache
+D:\ltnc\baitap410\baitap410\obj\Debug\net10.0\ref\baitap410.dll
+D:\ltnc\baitap410\baitap410\obj\Debug\net10.0\baitap410.csproj.Up2Date
